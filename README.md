@@ -28,3 +28,7 @@ Complete the following tasks to practice basic and essential Git operations. By 
 3. Commit your changes
 4. Push it to the remote repository
 5. Make a pull request (You shouldn't merge your code. Keep the pull request open)
+
+## Part 2: Rebasing
+Checkout to the new-branch, which currently exists in the repository. Rebase this branch with the main branch.
+
