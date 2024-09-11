@@ -17,14 +17,14 @@ Complete the following tasks to practice basic and essential Git operations. By 
 
 ## Lab Setup
 
-1. **Fork and Clone the Repository**
-   - Fork the starter code repository provided by your GitHub Classroom assignment link.
-   - Clone the forked repository to your local machine:
-     ```bash
-     git clone <your-forked-repo-url>
-     cd <repository-name>
-     ```
+1. **Clone the Repository created by the classroom for you**
+
 
 ## Part 1: Branching
 
 ### Task 1: Create a New Branch
+1. Make a file and name it assignment1.tx
+2. Write a phrase in the file
+3. Commit your changes
+4. Push it to the remote repository
+5. Make a pull request (You shouldn't merge your code. Keep the pull request open)
