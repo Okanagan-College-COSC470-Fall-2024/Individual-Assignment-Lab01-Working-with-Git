@@ -17,7 +17,7 @@ Complete the following tasks to practice basic and essential Git operations. By 
 
 ## Lab Setup
 
-1. **Clone the Repository created by the classroom for you**
+1. **Clone the Repository by Following Steps in Your Assignment Description**
 
 
 ## Part 1: Branching
